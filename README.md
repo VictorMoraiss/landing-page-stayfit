@@ -48,7 +48,7 @@ Criar uma presença digital moderna e estratégica para aumentar:
 
 ## 📸 Preview
 
-(./public/mobile.png)
+[Landing Page Stay Fit](/public/stay-fit-foto.jpeg)
 
 ---
 
