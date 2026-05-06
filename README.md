@@ -42,13 +42,13 @@ Criar uma presença digital moderna e estratégica para aumentar:
 
 ## 🌐 Acesse o projeto
 
-👉 https://projeto-stayfit.vercel.app
+👉 <a href="https://projeto-stayfit.vercel.app" target= "_blank">https://projeto-stayfit.vercel.app</a>
 
 ---
 
 ## 📸 Preview
 
-( (./foto-stayfit.PNG) )
+(./public/mobile.png)
 
 ---
 
