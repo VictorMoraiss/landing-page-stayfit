@@ -46,12 +46,6 @@ Criar uma presença digital moderna e estratégica para aumentar:
 
 ---
 
-## 📸 Preview
-
-[Landing Page Stay Fit](/public/stay-fit-foto.jpeg)
-
----
-
 ## 🧠 Observação
 
 Projeto desenvolvido com auxílio de inteligência artificial e refinado manualmente para garantir performance, organização e foco em conversão.
